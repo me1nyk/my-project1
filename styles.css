@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+  background-color: rgb(126, 126, 124);
+}
+li {
+  font-weight: bold;
+}
+.text {
+  font-size: large;
+  background-color: rgb(232, 62, 62);
+  color: whitesmoke;
+  border-radius: 5px;
+  width: 1200px;
+  margin: auto;
+  padding: 10px;
+  text-align: justify;
+}
