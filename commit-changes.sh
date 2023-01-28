@@ -1,3 +1,4 @@
-MESSAGE="COMMIT-BY-SHELL"
+MESSAGE="COMMIT-BY-SHELL2"
 git add .
 git commit -m $MESSAGE
+git push
